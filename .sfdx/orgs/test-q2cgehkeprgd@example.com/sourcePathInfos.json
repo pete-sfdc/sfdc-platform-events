@@ -1,0 +1,478 @@
+[
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528079755377,
+            "changeTime": 1528079822384,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528079755377,
+            "changeTime": 1528079755377,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1528094961919,
+            "changeTime": 1528094961919,
+            "contentHash": "e6c47f26832a2e529f8fbcb2667724ecee417f93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1528079755377,
+            "changeTime": 1528079755377,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1528094849123,
+            "changeTime": 1528079912949,
+            "contentHash": "faa3f2c5f4d0f5d49f67e53c2ef7282e29b4258b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/OrderID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/OrderID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 581,
+            "modifiedTime": 1528083402337,
+            "changeTime": 1528083402337,
+            "contentHash": "a29313986c7585b35ce080cf070fac9715e665cf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/OrderStatus__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/OrderStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 610,
+            "modifiedTime": 1528083402337,
+            "changeTime": 1528083402337,
+            "contentHash": "13658bd75142e1953e5c32b7f0762cab23526830",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/OrderTotal__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/OrderTotal__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 609,
+            "modifiedTime": 1528083402338,
+            "changeTime": 1528083402338,
+            "contentHash": "f3616226276d6d106eef313138c43c4bb32150d1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/SFDC_vs_OMS__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields/SFDC_vs_OMS__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 652,
+            "modifiedTime": 1528083402338,
+            "changeTime": 1528083402338,
+            "contentHash": "d640081c77fda700df2cc52c14516a1a8ddaf3a1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/Order_Change__e.object-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/Order_Change__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 350,
+            "modifiedTime": 1528083402343,
+            "changeTime": 1528083402343,
+            "contentHash": "55261005c61a979cf4f4732944e91633c2a6e3c0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OpportunityID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OpportunityID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 468,
+            "modifiedTime": 1528083402343,
+            "changeTime": 1528083402343,
+            "contentHash": "a4dba378a2541b9f97a107d692ab5505673297c9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OrderID__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OrderID__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 457,
+            "modifiedTime": 1528083402344,
+            "changeTime": 1528083402344,
+            "contentHash": "8112468bd2790ed6e9eabba78597689a4013c4ae",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OrderStatus__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OrderStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 466,
+            "modifiedTime": 1528083402344,
+            "changeTime": 1528083402344,
+            "contentHash": "8094159e11ac2e5644d3066ff4595455ac52c10d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OrderTotal__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields/OrderTotal__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1528083402344,
+            "changeTime": 1528083402344,
+            "contentHash": "9a02faad8060bbaf7da0dbc956bc547a8652e403",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity (Support) Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8900,
+            "modifiedTime": 1528083402350,
+            "changeTime": 1528083402350,
+            "contentHash": "5fec7dbee28b1201a864763230d41a7dd0baf3e1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9506,
+            "modifiedTime": 1528083402355,
+            "changeTime": 1528083402355,
+            "contentHash": "85bea0e14362f81285353fe742a9d5563e7e29d8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity (Marketing) Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9037,
+            "modifiedTime": 1528083402358,
+            "changeTime": 1528083402358,
+            "contentHash": "9988ac6ac622d0fecb0c1ffabc1102e4dad18485",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity (Sales) Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts/Opportunity-Opportunity (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8997,
+            "modifiedTime": 1528083402361,
+            "changeTime": 1528083402361,
+            "contentHash": "7829c7c2ee1801655ea3101bb24d1805a229c58d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5446,
+            "modifiedTime": 1528083402364,
+            "changeTime": 1528083402364,
+            "contentHash": "9e6dbbaf5df7ac51ee62e7ddfefd7876b64d9b68",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5442,
+            "modifiedTime": 1528083402366,
+            "changeTime": 1528083402366,
+            "contentHash": "2a47f68a1850b5162b63ebffed38420d4bc13803",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5782,
+            "modifiedTime": 1528083402372,
+            "changeTime": 1528083402372,
+            "contentHash": "bc7213caadf7a44f8f9953bdd9b2ebbe56a58a24",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18821,
+            "modifiedTime": 1528083402384,
+            "changeTime": 1528083402384,
+            "contentHash": "ed07e5e4fe858071d13b7e9338b69ff7702e2c20",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/connectedApps/Message_Broker.connectedApp-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/connectedApps/Message_Broker.connectedApp-meta.xml",
+            "isDirectory": false,
+            "size": 547,
+            "modifiedTime": 1528083487438,
+            "changeTime": 1528083402386,
+            "contentHash": "60121795473e1ff19849a370534f2cae2942ce61",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1528083402338,
+            "changeTime": 1528083402338,
+            "contentHash": "06befe419daf4e38a0c402c1d6b22b1250fe81c3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528083402336,
+            "changeTime": 1528083402336,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1528083402343,
+            "changeTime": 1528083402343,
+            "contentHash": "ec1b32ba4aae2b362aaf2f1fc61d0c53b936f2ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1528083402343,
+            "changeTime": 1528083402343,
+            "contentHash": "3fbe73384496ee207ec070df2b8b459202d8871b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/objects/Order_Change__e/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1528083402344,
+            "changeTime": 1528083402344,
+            "contentHash": "872f2bd1bd6bda7f85c783fd428eb5f04e9d3da4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1528083402361,
+            "changeTime": 1528083402361,
+            "contentHash": "dc5f4acdb507561de87b1907eee12076fe88e134",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1528083402384,
+            "changeTime": 1528083402384,
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/connectedApps",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/connectedApps",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528083402386,
+            "changeTime": 1528083402386,
+            "contentHash": "ef5e0074036d030b2cf69d8eb2afbce789e0bb47",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/permissionsets/Message_Broker_App_User.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/permissionsets/Message_Broker_App_User.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1528083819066,
+            "changeTime": 1528083819066,
+            "contentHash": "46315f3fbdf51d8e1b8d18eeb5523b34493f8d31",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1528083819066,
+            "changeTime": 1528083819066,
+            "contentHash": "795d432d4872280342631d0336a5a67c2e391979",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1528094961933,
+            "changeTime": 1528094961933,
+            "contentHash": "788bbf8e80e6d5abffd88bd8ae44f6fe391b8ed9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/triggers/Order_ChangeTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/triggers/Order_ChangeTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2101,
+            "modifiedTime": 1528096804960,
+            "changeTime": 1528096804960,
+            "contentHash": "fb9eaca2c24c01bdd5a95ae68a307f4f3fb67b3e"
+        }
+    ],
+    [
+        "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/triggers/Order_ChangeTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/peter.oconnell/sfdx-demo/event-app/force-app/main/default/triggers/Order_ChangeTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1528094961933,
+            "changeTime": 1528094961933,
+            "contentHash": "13e350e875af0124ad34d34334e73b0074826a7e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]
